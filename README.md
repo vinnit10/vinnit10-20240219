@@ -14,5 +14,5 @@ Este é um projeto de backend que implementa um Sistema de Gestão de Colaborado
 * Utilização do Docker para criação do banco de dados.
 
 ## Passos para envio da avaliação
-* Crie uma nova branch a partir da master (com seu nome do git e data, ex.: devrte-20231220).
+* Crie uma nova branch a partir da master (com seu nome do git e data, ex.: feature/devrte-20231220).
 * Envie um PR para branch principal para sabermos que sua avaliação foi finalizada. **Obs.: só será aceito o commit do primeiro PR**.
