@@ -16,7 +16,7 @@ Este é um projeto de backend que implementa um Sistema de Gestão de Colaborado
 
 ## **Diferenciais**
 * Utilização do Docker para criação do banco de dados.
-* Criar atenticação via Bearer token. 
+* Criar autenticação via Bearer token. 
 
 ## **Requisitos**
 * Densenvolver arquitetura do projeto em MVC.
@@ -25,5 +25,5 @@ Este é um projeto de backend que implementa um Sistema de Gestão de Colaborado
 
 ## Passos para envio da avaliação
 * Solicite acesso ao repositório.
-* Crie uma nova branch a partir da master (com seu nome do git e data, ex.: feature/devrte-20231220).
-* Envie um PR para branch principal para sabermos que sua avaliação foi finalizada. **Obs.: só será aceito o commit do primeiro PR**.
+* Crie um fork da master para seu repositório com o seguinte nome: usuário do git e data, ex.: devrte-20231201.
+* **Após a solicitação de acesso, haverá o prazo de uma semana para entrega do projeto**
