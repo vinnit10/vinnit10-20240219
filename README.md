@@ -19,7 +19,7 @@ Este é um projeto de backend que implementa um Sistema de Gestão de Colaborado
 * Criar autenticação via Bearer token. 
 
 ## **Requisitos**
-* Densenvolver arquitetura do projeto em MVC.
+* Desenvolver arquitetura do projeto em MVC.
 * Aplicar o pattern de herança.
 * Deve ser possível realizar os testes das funcionalidades via Postman ou similares.
 
