@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EmployeeManagement",
+    "\\EmployeeManagement\\EmployeeManagement",
+    "\\EmployeeManagement\\EmployeeManagement\\Data"
+  ],
+  "SelectedNode": "\\EmployeeManagement\\EmployeeManagement\\Data\\ManagementDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
